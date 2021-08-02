@@ -1,0 +1,8 @@
+{
+  "name": "LCV Oficial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "336a47fa"
+}
